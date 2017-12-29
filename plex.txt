@@ -1,4 +1,3 @@
-## Main Plex Domains
 plex.tv
 tvdb2.plex.tv
 pubsub.plex.bz
@@ -24,8 +23,6 @@ app.plex.tv
 o1.email.plex.tv 
 o2.sg0.plex.tv 
 dashboard.plex.tv
-
-## External sites used by plex
-gravatar.com - custom login pictures
-thetvdb.com - metadata for tv series
-themoviedb.com - metadata for movies
+gravatar.com
+thetvdb.com
+themoviedb.com
